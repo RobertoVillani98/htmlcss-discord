@@ -155,6 +155,49 @@ nav li a {
 	float: right;
 }
 
+.text-section {
+	margin-top: 100px;
+	text-align: center;
+	padding: 0 160px;
+}
+
+.text-section h2 {
+	font-size: 40px;
+	margin-bottom: 20px;
+}
+
+.text-section p {
+	font-size: 17px;
+	line-height: 1.6;
+}
+
+.pronto {
+	position: relative;
+	margin: 50px 0;
+}
+
+.pronto h3 {
+	text-align: center;
+}
+
+.star {
+	position: absolute;
+	top: 20px;
+	left: 370px;
+	transform: translate(-50px, -50px);
+}
+
+.blue {
+	background-color: rgb(142, 161, 225);
+	margin-left: 480px;
+	margin-bottom: 30px;
+	color: white;
+}
+
+#last-section .btn i {
+	margin-right: 10px;
+}
+
 /* debug */
 
 /* .debug header {
@@ -181,6 +224,7 @@ nav li a {
 } */
 
 .debug footer {
+	margin-top: 100px;
 	height: 500px;
 	background-color: blue;
 }
