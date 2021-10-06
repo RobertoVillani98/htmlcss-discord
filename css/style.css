@@ -151,6 +151,10 @@ nav li a {
 	font-size: 17px;
 }
 
+.main-img.due {
+	float: right;
+}
+
 /* debug */
 
 /* .debug header {
