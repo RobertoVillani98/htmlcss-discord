@@ -204,6 +204,13 @@ main-text .due {
 }
 
 /* footer */
+
+footer {
+	margin-top: 100px;
+	height: 600px;
+	background-color: rgb(35, 39, 42);
+}
+
 .box {
 	display: inline-block;
 	height: 300px;
@@ -240,6 +247,7 @@ ul {
 
 footer .container {
 	width: 60%;
+	height: 500px;
 	padding-top: 60px;
 	border-bottom: 1px solid rgb(70, 84, 122);
 }
@@ -247,6 +255,22 @@ footer .container {
 .icon {
 	margin-right: 10px;
 	margin-top: 10px;
+}
+
+.logo-bottom img {
+	margin-top: 30px;
+	margin-left: 300px;
+	float: left;
+}
+
+#registrati {
+	margin-top: 30px;
+}
+
+.btn.blue2 {
+	color: white;
+	background-color: rgb(142, 161, 225);
+	margin-left: 620px;
 }
 
 /* debug */
@@ -273,10 +297,9 @@ footer .container {
 	height: 900px;
 	background-color: grey;
 } */
-
-.debug footer {
+footer {
 	margin-top: 100px;
-	height: 500px;
+	height: 600px;
 	background-color: rgb(35, 39, 42);
 }
 
