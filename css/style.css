@@ -108,7 +108,7 @@ nav li a {
 
 #jumbotron p {
 	font-size: 18px;
-	line-height: 1.6;
+	line-height: 1.7;
 	margin-top: 30px;
 	margin-bottom: 50px;
 }
@@ -122,6 +122,33 @@ nav li a {
 
 #jumbotron .btn i {
 	margin-right: 5px;
+}
+
+/* main */
+
+.main-img img {
+	margin: 100px 0;
+}
+
+.main-text h2 {
+	padding-top: 150px;
+	font-size: 35px;
+	margin-bottom: 15px;
+}
+
+.main-img {
+	float: left;
+}
+
+.main-text {
+	padding-left: 80px;
+	width: 30%;
+	float: left;
+}
+
+.main-text p {
+	line-height: 1.6;
+	font-size: 17px;
 }
 
 /* debug */
@@ -144,10 +171,10 @@ nav li a {
 	background-color: lightgreen;
 } */
 
-.debug main {
+/* .debug main {
 	height: 900px;
 	background-color: grey;
-}
+} */
 
 .debug footer {
 	height: 500px;
